@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Orelega+One&family=Oswald:wght@300;400&display=swap");
+
+.website-name {
+  padding: 1rem;
+  margin-top: rem;
+  font-size: x-large;
+  font-weight: bolder;
+}
+.navigation {
+  background-color: #F9A8D4;
+  color: #000000;
+  border-bottom-left-radius: 1.5rem;
+}
+.nav-main {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+.nav-pills {
+  text-align: right;
+  font-weight: bolder;
+  font-size: 100%;
+  padding: 1rem;
+}
+.nav-pills .nav-main{
+    padding: 0rem 2.0rem;
+    font-size: 1.15rem;
+}
+
+.hero{
+    padding: 1rem;
+}
+.hero .hero-img{
+    max-width: 300px;
+    display: block;
+    margin: auto;
+}
+.hero-heading{
+    text-align: center;
+    padding-top:1.5rem;
+}
+
+.heading-inverted{
+    color:#EC4899;
+}
+
+.container{
+    padding: 10rem,10rem;
+    max-width: 600px;
+    margin: auto;
+}
+.container-center{
+    text-align: center;
+}
+
+.section{
+    padding: 2rem;
+}
+.ow{
+    background-color: #F3F4F6;
+}
+
+.link{
+    text-decoration: none;
+    padding: 0.5rem;
+    color: black;
+    
+    
+}
+.primary-link{
+    background-color: #EC4899;
+    border: 1px solid;
+    border-radius: 0.5rem;
+    color: white;
+}
+.secondary-link{
+    border:1px solid;
+    border-radius: 0.5rem;
+    color: black;
+}
+
+.footer{
+    background-color: #F9A8D4;
+    height: 90px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    margin-top: 10px;
+    border-top-right-radius: 1.5rem;
+}
+.footer-social{
+    display: inline;
+    padding-left: 1rem ;
+}
+.footer-txt{
+    text-align: center;
+}
+.footer ul {
+    padding-inline-start: 0px;
+    margin-bottom: 0px;
+  }
