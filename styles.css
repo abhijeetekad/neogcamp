@@ -25,6 +25,9 @@
     padding: 0rem 2.0rem;
     font-size: 1.15rem;
 }
+.navigation .link-active{
+    font-weight: bold;
+}
 
 .hero{
     padding: 1rem;
