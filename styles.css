@@ -45,6 +45,7 @@
 .hero-heading{
     text-align: center;
     padding-top:1.5rem;
+    font-weight: bold;
 }
 
 .heading-inverted{
@@ -70,6 +71,7 @@
 
 .blog-name{
     padding-bottom: 1rem;
+    font-weight: bold;
 }
 
 .link{
