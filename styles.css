@@ -114,10 +114,12 @@
 .footer-social{
     display: inline;
     padding-left: 1rem;
+    font-weight: bold;
 }
 .footer-txt{
     text-align: center;
     padding-bottom: 1rem;
+    font-weight: bold;
 }
 .footer ul {
     padding-inline-start: 0px;
