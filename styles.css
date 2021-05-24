@@ -4,7 +4,7 @@
   padding: 1rem;
   margin-top: rem;
   font-size: x-large;
-  font-weight: bolder;
+  font-weight: bold;
 }
 .navigation {
   background-color: #F9A8D4;
@@ -14,21 +14,23 @@
 .nav-main {
   display: inline;
   padding: 0rem 0.5rem;
+  font-weight: normal;
 }
 .nav-pills {
   text-align: right;
-  font-weight: bolder;
+  font-weight: normal;
   font-size: 100%;
   padding: 1rem;
 }
 .nav-pills .nav-main{
     padding: 0rem 2.0rem;
     font-size: 1.15rem;
+    font-weight: normal;
     
 }
 .navigation .link-active{
     font-weight: bold;
-    background-color: #EC4899;
+    background-color: #f5c9eb;
     border-radius: 0.5rem;
 }
 
@@ -60,7 +62,7 @@
 
 .section{
     padding: 2rem;
-    font-weight: bold;
+    font-weight: normal;
 }
 .ow{
     background-color: #F3F4F6;
@@ -95,7 +97,7 @@
     height: 110px;
     text-align: center;
     color: black;
-    font-weight: bolder;
+    font-weight: normal;
     margin-top: 100px;
     border-top-right-radius: 1.5rem;
    
